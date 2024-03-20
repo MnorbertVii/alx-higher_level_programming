@@ -1,4 +1,4 @@
-#!/usr/bin/python3
-def print_sorted_dictionary(my_dict):
-    for key in sorted(my_dict.keys()):
-        print("{:s}: {}".format(key, my_dict[key]))
+#!/usr/bin/python3 
+def update_dictionary(a_dictionary, key, value):
+    a_dictionary[key] = value
+    return (a_dictionary) 
