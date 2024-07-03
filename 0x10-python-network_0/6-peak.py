@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Defines a peak-finding algorithm."""
-[2;2R[>77;30603;0c]10;rgb:bfbf/bfbf/bfbf]11;rgb:0000/0000/0000
+
 
 def find_peak(list_of_integers):
     """ Finds the peak in a list of integers """
